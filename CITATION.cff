@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Collapse Stability Duality: Test-Time Adaptation via Mutual Information Maximization"
+message: "If you use this code, please cite this work."
+authors:
+  - family-names: "Thakur"
+    given-names: "Anish Kumar"
+    affiliation: "Department of Computer Science and Engineering, ABV-IIITM"
+year: 2026
+license: MIT

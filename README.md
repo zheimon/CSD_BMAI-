@@ -1,5 +1,5 @@
 # CSD-BMIA: Collapse–Stability Duality and Mutual-Information Test-Time Adaptation
-
+> New here? Read [HOW_IT_WORKS.md](HOW_IT_WORKS.md) for a 1-minute visual overview.
 Code for the paper *"Collapse Stability Duality: Test-Time Adaptation via Mutual
 Information Maximization."*
 

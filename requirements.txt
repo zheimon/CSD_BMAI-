@@ -1,0 +1,10 @@
+torch>=1.12
+torchvision>=0.13
+numpy>=1.21
+scipy>=1.7
+scikit-image>=0.19
+Pillow>=9.0
+imagecorruptions>=1.1.2
+medmnist>=2.2
+timm>=0.6
+tqdm>=4.62

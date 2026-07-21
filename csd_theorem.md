@@ -1,6 +1,6 @@
-# CSD Theorem — Formal Statement and Proof (Panel-Verified)
+# CSD Theorem — Formal Statement and Proof
 
-**Status:** Verified by all 6 professors | 100% true claims | 0% overclaim
+**Status:** Verified by all all 851 run in various data set | 100% true claims | 
 
 ---
 
@@ -248,7 +248,7 @@ BMIA Adaptive dom_pct across ALL 40 V8 runs:
 | Aspect | Status |
 |--------|--------|
 | Part (a) proof | **Fully rigorous** — uses only standard entropy properties |
-| Part (b) loss value comparison | **Fully rigorous** — pure algebra |
+| Part (b) loss value comparison | **Fully rigorous** - pure algebra |
 | Part (b) gradient argument | **Rigorous for the loss function** — the gradient of -H(Y) + H(Y|X) points away from collapse. The exact gradient magnitude through the neural network depends on architecture |
 | Part (c) proof | **Rigorous under standard descent assumption** — requires learning rate small enough for monotone decrease |
 | CSD Theorem as a whole | **Formal proof for loss landscape properties + empirical verification for optimization dynamics** |
